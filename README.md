@@ -1,2 +1,2 @@
 # warsztat-sitOnChair
-Warsztat z html
+Warsztat z html z kursu w szkole Coders Lab.
