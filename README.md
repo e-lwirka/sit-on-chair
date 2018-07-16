@@ -1,2 +1,9 @@
-# warsztat-sitOnChair
-Warsztat z html z kursu w szkole Coders Lab.
+# sitOnChair
+
+The workshop website (Coders Lab).
+
+# Technologies:
+* HTML
+* CSS
+*
+
