@@ -2,8 +2,10 @@
 
 The workshop website (Coders Lab).
 
-# Technologies:
+## Technologies:
 * HTML
 * CSS
-*
+
+## Next steps:
+* adding funcionality (JS)
 
